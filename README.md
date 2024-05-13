@@ -1,5 +1,5 @@
 # <p align="center">
-  <img width="600" height="400" src="240_F_583123165_NeKswfEtkCzZL1yiZZimhF3VYJrAinYf.jpg">
+  <img width="600" height="100" src="Screenshot 2024-05-13 194624.png">
 </p>
 <p align="center">
   <img width="600" height="400" src="240_F_583123165_NeKswfEtkCzZL1yiZZimhF3VYJrAinYf.jpg">
