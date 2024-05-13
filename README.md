@@ -84,10 +84,22 @@ Geographical Variations:
 
 While my analysis did not reveal significant geographical variations in pizza preferences, further investigation into regional differences may be warranted to optimize marketing strategies and menu offerings for specific locations.
 
-Recommendations: 
+Recommendations:
+
 Based on my analysis, I recommend the following actions to the restaurant chain:
 
 Implement targeted marketing campaigns based on customer demographics and ordering patterns.
 Introduce promotional offers or menu specials during peak sales periods to capitalize on increased demand.
 Enhance customer engagement through loyalty programs or personalized offers to foster repeat business.
 Monitor and analyze regional sales data to identify opportunities for localized marketing efforts or menu adjustments.
+
+
+<p align="center">
+  <img width="600" height="400" src="240_F_737510696_TsSfdoR7vSlXq9v5Md3nEkU3zmTp4lTw.jpg">
+</p>
+
+
+## Project Link:
+
+## Auther:
+Subhasish Ghosh  Data Analyst
