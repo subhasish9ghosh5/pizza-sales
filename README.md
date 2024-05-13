@@ -101,5 +101,8 @@ Monitor and analyze regional sales data to identify opportunities for localized 
 
 ## Project Link:
 
+[Click Here](https://github.com/subhasish9ghosh5/pizza-sales/blob/main/PIZZA%20SALES.pdf)
+
 ## Auther:
-Subhasish Ghosh  Data Analyst
+Subhasish Ghosh - Data Analyst
+Subhasish Ghosh - All Work
